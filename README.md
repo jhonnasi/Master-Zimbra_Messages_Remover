@@ -34,6 +34,6 @@ Contributions are welcome! If you're interested in contributing, please directly
 This project is available for personal use. Commercial use is prohibited without prior authorization. Please see the LICENSE file for more details.
 
 ## Contact
-If you have questions, suggestions, or contributions, feel free to contact me on my GitHub profile: jhonnasi.
+If you have questions, suggestions, or contributions, feel free to contact me on my GitHub profile: [jhonnasi](https://github.com/jhonnasi).
 
 Thank you for using or contributing to the Master - Messages Remover project!
