@@ -36,4 +36,4 @@ This project is available for personal use. Commercial use is prohibited without
 ## Contact
 If you have questions, suggestions, or contributions, feel free to contact me on my GitHub profile: [jhonnasi](https://github.com/jhonnasi).
 
-Thank you for using or contributing to the Master - Messages Remover project!
+Thank you for using or contributing to the Master - Zimbra Messages Remover project!
