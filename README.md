@@ -13,14 +13,15 @@ The "Master - Messages Remover" is a Bash script designed to aid Zimbra server a
 - The Zimbra user must have appropriate permissions to read and execute the script.
 
 ## Installation
-No formal installation is necessary. Simply download the `master.sh` script and ensure it is executable:
+No formal installation is necessary. Download the `master.sh` script and ensure it is executable:
 ```bash
 chmod +x master.sh
-
+```
 ## Usage
 To use the script, navigate to the directory containing master.sh and execute it:
+```bash
 ./master.sh
-
+```
 Follow the on-screen prompts to select and delete messages. Before proceeding with deletion operations, ensure you have a backup of important data.
 
 ## Troubleshooting
@@ -35,4 +36,4 @@ This project is available for personal use. Commercial use is prohibited without
 ## Contact
 If you have questions, suggestions, or contributions, feel free to contact me on my GitHub profile: jhonnasi.
 
-Thank you for using or contributing to the Master - Zimbra Messages Remover project!
+Thank you for using or contributing to the Master - Messages Remover project!
